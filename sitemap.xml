@@ -17,6 +17,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/25-2/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/posts/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/products/sample-product-page/
         </loc>
     </url>
