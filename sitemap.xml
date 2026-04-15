@@ -57,6 +57,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/ultimate-smores-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/kits/
         </loc>
     </url>
