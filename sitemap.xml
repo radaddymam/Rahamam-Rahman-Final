@@ -47,11 +47,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/category/kits/
         </loc>
     </url>
@@ -118,6 +113,16 @@
     <url>
         <loc>
             http://localhost:8000/tag/plants/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/bubbles/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/indoor/
         </loc>
     </url>
     <url>
