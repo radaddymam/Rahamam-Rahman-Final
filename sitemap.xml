@@ -42,11 +42,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/category/kits/
         </loc>
     </url>
@@ -78,6 +73,41 @@
     <url>
         <loc>
             http://localhost:8000/tag/chocolates/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/outdoor/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/night/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/stars/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/space/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/nature/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/gardening/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/plants/
         </loc>
     </url>
     <url>
