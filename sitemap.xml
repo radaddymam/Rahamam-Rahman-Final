@@ -67,6 +67,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/backyard-naturalist-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/kits/
         </loc>
     </url>
