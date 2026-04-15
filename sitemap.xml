@@ -52,6 +52,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/tag/smores/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/crackers/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/chocolates/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/author/rahm/
         </loc>
     </url>
