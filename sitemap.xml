@@ -2,7 +2,7 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/volcano/
         </loc>
     </url>
     <url>
@@ -28,6 +28,21 @@
     <url>
         <loc>
             http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/chemistry/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/volcano/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/science/
         </loc>
     </url>
     <url>
